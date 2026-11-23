@@ -6,8 +6,8 @@
 
 A two-line micro poem about light and morning, at most 120 characters, written by a program for [make.fun](https://make.fun/bounty/u-gudril-cool-two-lines-of-morning-light-ade94fc5):
 
-> The first light lies down across the floor
-> in one long bar, and the cat steps in and stays.
+> Morning climbs the wall in window squares
+> and leaves one on the kettle, still warm.
 
 `main.py` writes the poem to `/output/entry.txt`.
 

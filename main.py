@@ -3,17 +3,18 @@
 
 Writes one two-line micro poem about light and morning, at most 120
 characters including the line break, to /output/entry.txt. The poem
-turns on a single image of light arriving: the first light comes in
-low across the floor, and the second line opens that image instead
-of restating it -- a cat steps into the bar of light and stays.
+turns on a single image of light arriving: morning climbs the wall
+in window squares, and the second line opens that image instead of
+restating it -- one square detaches and lands on the kettle, still
+warm from whoever was up before the light.
 """
 
 import os
 import sys
 
 POEM = (
-    "The first light lies down across the floor\n"
-    "in one long bar, and the cat steps in and stays.\n"
+    "Morning climbs the wall in window squares\n"
+    "and leaves one on the kettle, still warm.\n"
 )
 
 
